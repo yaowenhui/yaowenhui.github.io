@@ -4,7 +4,7 @@
   <title><![CDATA[药药的小站]]></title>
   <link href="http://yaowenhui.github.io/atom.xml" rel="self"/>
   <link href="http://yaowenhui.github.io/"/>
-  <updated>2017-09-03T23:07:06+08:00</updated>
+  <updated>2017-09-03T23:11:06+08:00</updated>
   <id>http://yaowenhui.github.io/</id>
   <author>
     <name><![CDATA[药药]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://yaowenhui.github.io/blog/2017/09/03/title/"/>
+    <updated>2017-09-03T23:10:18+08:00</updated>
+    <id>http://yaowenhui.github.io/blog/2017/09/03/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
