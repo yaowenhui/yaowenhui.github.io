@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[药药的小站]]></title>
+  <link href="http://yaowenhui.github.io/atom.xml" rel="self"/>
+  <link href="http://yaowenhui.github.io/"/>
+  <updated>2017-09-03T23:07:06+08:00</updated>
+  <id>http://yaowenhui.github.io/</id>
+  <author>
+    <name><![CDATA[药药]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
