@@ -4,7 +4,7 @@
   <title><![CDATA[药药的小站]]></title>
   <link href="http://yaowenhui.github.io/atom.xml" rel="self"/>
   <link href="http://yaowenhui.github.io/"/>
-  <updated>2017-09-03T23:24:45+08:00</updated>
+  <updated>2017-09-24T18:29:15+08:00</updated>
   <id>http://yaowenhui.github.io/</id>
   <author>
     <name><![CDATA[药药]]></name>
@@ -23,7 +23,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Title]]></title>
+    <title type="html"><![CDATA[测试]]></title>
     <link href="http://yaowenhui.github.io/blog/2017/09/03/title/"/>
     <updated>2017-09-03T23:10:18+08:00</updated>
     <id>http://yaowenhui.github.io/blog/2017/09/03/title</id>
